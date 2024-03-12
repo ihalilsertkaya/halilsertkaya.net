@@ -1,4 +1,4 @@
-# Blog
+# Halilsertkaya.net - Kişisel Blog
 
 ## Merhaba!
 
